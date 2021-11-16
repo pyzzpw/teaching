@@ -1,4 +1,4 @@
-import cv2
+import cv2123
 img = cv2.imread('C:/Users/hetao/Desktop/zhang.png')
 print(img)
 gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
